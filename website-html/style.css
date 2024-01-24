@@ -1,0 +1,33 @@
+body{
+background: linear-gradient(black, grey)
+
+}
+
+h1{
+    border-style: groove;
+    border-width: 5px;
+    color: lightgray;
+    font-family: sans-serif;
+    border-right: 5px;
+    border-radius: 10px;
+    border-color: grey;
+    padding: 5px; 
+}
+pre{
+    background-image: url(generic-grunge-wall-building-street-summer-day-modern-luxury-3d-illustration-style-hipster-cyberpunk-grunge-template_510351-7566.avif);
+    color: lightgray;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+a{
+color: aliceblue;
+font-family: sans-serif;
+}
+h3{
+color: lightgray;
+font-family: sans-serif;
+}
